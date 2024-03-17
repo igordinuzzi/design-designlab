@@ -35,6 +35,7 @@ My approach to creating these instructional videos involved several key stages:
 
 Creating instructional videos for Designlab's UX Bootcamp was a deeply rewarding experience that allowed me to blend my skills in motion graphics and communication design with my passion for education. By designing content that was both visually appealing and pedagogically sound, I aimed to enhance the learning experience for students, making complex UX concepts accessible and engaging. This project was not just about creating educational materials; it was about empowering the next generation of UX designers with the knowledge and skills they need to succeed.
 
+![My Image](/doc/story.jpg)
 ![My Image](/doc/01.jpg)
 ![My Image](/doc/02.jpg)
 ![My Image](/doc/03.jpg)
